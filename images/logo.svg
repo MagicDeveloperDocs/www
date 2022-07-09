@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="73.999" height="79.912" viewBox="0 0 73.999 79.912">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0047c6"/>
+      <stop offset="1" stop-color="#2464f6"/>
+    </linearGradient>
+  </defs>
+  <g id="组_3" data-name="组 3" transform="translate(-3476.621 -357.768)">
+    <path id="路径_12" data-name="路径 12" d="M3678.2,552.619v-4.5L3649.675,564v28.523l28.523-15.888v-4.5L3656.43,584.26V564.744Z" transform="translate(-140.778 -154.846)" fill="url(#linear-gradient)"/>
+    <path id="路径_13" data-name="路径 13" d="M3500.088,558.76l-8.831,11.733-8.83-21.6-5.806-3.242v28.523l6,3.353V560.341l5.729,14.01,5.806,3.242,5.729-7.612v17.191l6.005,3.353V562Z" transform="translate(0 -152.845)" fill="#ffcb4d"/>
+    <path id="路径_14" data-name="路径 14" d="M3521.425,444.1l-23.836,20.535,21.28-21.955-11.848-6.582-30.4,16.889,30.4,16.889,30.4-16.889Z" transform="translate(0 -63.722)" fill="url(#linear-gradient)"/>
+    <path id="路径_15" data-name="路径 15" d="M3813.307,385.366l4.167,3.691,5.333-1.6-3.691,4.167,1.6,5.333-4.167-3.691-5.333,1.6,3.691-4.167Z" transform="translate(-272.186 -22.451)" fill="#ffcb4d"/>
+    <path id="路径_16" data-name="路径 16" d="M3792.921,452.7l2.531,2.242,3.24-.969-2.242,2.531.969,3.24-2.531-2.242-3.24.969,2.242-2.531Z" transform="translate(-256.272 -77.23)" fill="#ffcb4d"/>
+    <path id="路径_17" data-name="路径 17" d="M3719.085,386.5l2.531,2.242,3.24-.969-2.242,2.531.969,3.24-2.531-2.242-3.24.969,2.242-2.531Z" transform="translate(-196.207 -23.373)" fill="#ffcb4d"/>
+    <path id="路径_18" data-name="路径 18" d="M3769.21,357.768l2.531,2.242,3.24-.969-2.242,2.531.969,3.24-2.532-2.242-3.24.969,2.242-2.531Z" transform="translate(-236.983 0)" fill="#ffcb4d"/>
+    <path id="路径_19" data-name="路径 19" d="M3573.924,448.847l-1.518-1.69a.794.794,0,0,1,.07-1.131l41.38-35.65a.794.794,0,0,1,1.108.074h0a.794.794,0,0,1-.045,1.109L3575.056,448.9A.793.793,0,0,1,3573.924,448.847Z" transform="translate(-77.754 -42.641)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

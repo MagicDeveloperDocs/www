@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="椭圆_42" data-name="椭圆 42" cx="100" cy="100" r="100" transform="translate(2713 4740)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="蒙版组_16" data-name="蒙版组 16" transform="translate(-2713 -4740)" clip-path="url(#clip-path)">
+    <g id="france" transform="translate(2713 4740)">
+      <rect id="矩形_117" data-name="矩形 117" width="68" height="200" transform="translate(66)" fill="#fff"/>
+      <rect id="矩形_118" data-name="矩形 118" width="66" height="200" fill="#4758a9"/>
+      <rect id="矩形_119" data-name="矩形 119" width="66" height="200" transform="translate(134)" fill="#ed5565"/>
+    </g>
+  </g>
+</svg>
